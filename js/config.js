@@ -77,7 +77,7 @@
         'foundation.joyride': {
             deps: [
             'foundation.core',
-            'foundation.cookie'
+            'jquery.cookie'
             ]
         },
         'foundation.magellan': {
